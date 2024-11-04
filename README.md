@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![김수곤's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocknroll17)](https://github.com/anuraghazra/github-readme-stats)
+[![김수곤's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocknroll17&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rocknroll17/rocknroll17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
