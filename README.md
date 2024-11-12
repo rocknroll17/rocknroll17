@@ -2,19 +2,25 @@
 - 🌱 I’m currently learning in Chung-Ang University
 - 💼 I'm currently seeking internship opportunities to gain hands-on experience
 
-## Tech Skills
+## Technology Stack
 - Python
 - FastAPI
 - Spring Boot
 - Some Hacking Skills
+  -> Wi-Fi, Virus, Web API tampering, Osint
 
 ## Vision
 - White Hat Hacker
 - AI Engineer
 - Package Developer
 
-## Education
+## Major
 Chung-Ang University CSE
+
+## Hackathon & Awards
+- Union Hackathon: 2nd Place
+- AngelHack Seoul
+- Unid-thon
 
 ## Stats
 [![김수곤's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocknroll17&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
