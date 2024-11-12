@@ -1,24 +1,25 @@
 ## Hi there 👋
 - 🌱 I’m currently learning in Chung-Ang University
 - 💼 I'm currently seeking internship opportunities to gain hands-on experience
+- 👯 I'm currently collaborating in Kim's Pirate to make study planner
 
-## Technology Stack
+## Technology Stack 🧑‍💻
 - Python
 - FastAPI
 - Spring Boot
 - Some Hacking Skills
-  -> Wi-Fi, Virus, Web API tampering, Osint
+  -> Wi-Fi, Virus, Web, Osint, MITM
 
-## Vision
+## Vision 🔭
 - White Hat Hacker
 - AI Engineer
 - Package Developer
 
-## Major
+## Major 🎓
 Chung-Ang University CSE
 
 ## Hackathon & Awards
-- Union Hackathon: 2nd Place
+- Union Hackathon: 2nd Place 🥈
 - AngelHack Seoul
 - Unid-thon
 
