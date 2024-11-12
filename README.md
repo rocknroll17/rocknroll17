@@ -6,6 +6,7 @@
 ## Technology Stack 🧑‍💻
 - Python
 - FastAPI
+- MYSQL
 - Spring Boot
 - C++
 - Some Hacking Skills
