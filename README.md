@@ -7,6 +7,7 @@
 - Python
 - FastAPI
 - Spring Boot
+- C++
 - Some Hacking Skills
   -> Wi-Fi, Virus, Web, Osint, MITM
 
