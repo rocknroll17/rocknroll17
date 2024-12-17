@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently learning in Chung-Ang University
 - 💼 I'm currently seeking internship opportunities to gain hands-on experience
-- 👯 I'm currently collaborating in Kim's Pirate to make study planner
+- 👯 I'm currently researching about metasploit reverse_tcp python code for privilege escalation, customizing
+- 🤔 I'm currently interested in midstream decryption of HTTPS traffic to inspect malicious files
 
 ## Technology Stack 🧑‍💻
 - Python
@@ -9,6 +10,7 @@
 - MYSQL
 - Spring Boot
 - C++
+- Metasploit
 - Some Hacking Skills
   -> Wi-Fi, Virus, Web, Osint, MITM
 
