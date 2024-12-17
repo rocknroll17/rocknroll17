@@ -4,6 +4,10 @@
 - 👯 I'm currently researching about metasploit reverse_tcp python code for privilege escalation, customizing
 - 🤔 I'm currently interested in midstream decryption of HTTPS traffic to inspect malicious files
 
+## Bio
+- http://portfolio.rocknroll17.com
+- https://rocknroll17.tistory.com
+
 ## Technology Stack 🧑‍💻
 - Python
 - FastAPI
