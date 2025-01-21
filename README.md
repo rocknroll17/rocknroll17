@@ -5,7 +5,7 @@
 - 🤔 I'm currently interested in midstream decryption of HTTPS traffic to inspect malicious files
 
 ## Bio
-- http://portfolio.rocknroll17.com
+- https://portfolio.rocknroll17.com
 - https://rocknroll17.tistory.com
 
 ## Technology Stack 🧑‍💻
