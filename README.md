@@ -1,6 +1,5 @@
 ## Hi there 👋
 - 🌱 I’m currently learning in Chung-Ang University
-- 💼 I'm currently seeking internship opportunities to gain hands-on experience
 - 👯 I'm currently working on a project "Easysploit"
 - 🤔 I'm currently interested in midstream decryption of HTTPS traffic to inspect malicious files
 
