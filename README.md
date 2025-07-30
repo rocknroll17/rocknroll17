@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning in Chung-Ang University
-- 👯 I'm currently working on a project "Easysploit"
+- 👯 I'm currently working on a project "MariaDB MCP Server"
 - 🤔 I'm currently interested in midstream decryption of HTTPS traffic to inspect malicious files
 
 ## Bio
@@ -11,6 +11,10 @@
 - Python
 - FastAPI
 - MYSQL
+- MariaDB
+- Kotlin
+- Vue.js
+- Typescript
 - Spring Boot
 - C++
 - Metasploit
@@ -24,6 +28,15 @@
 
 ## Major 🎓
 Chung-Ang University CSE
+
+## Internship 🏢
+- **Reco** – ICT Internship (2025.03 – 2025.08)
+  Working as a full-stack developer in the engineering team:  
+  - Developed RESTful APIs using Spring Boot and Kotlin  
+  - Developed frontend interfaces using Vue.js and TypeScript  
+  - Automated internal workflows with Python scripts
+  - Wrote comments for every column in the database (2000 Columns)
+  - Developed MariaDB MCP server to improve internal developer productivity
 
 ## Hackathon & Awards
 - Union Hackathon: 2nd Place 🥈
