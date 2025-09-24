@@ -1,11 +1,10 @@
 ## Hi there 👋
 - 🌱 I’m currently learning in Chung-Ang University
 - 👯 I'm currently working on a project "MariaDB MCP Server"
-- 🤔 I'm currently interested in midstream decryption of HTTPS traffic to inspect malicious files
+- 🤔 I'm currently working as an undergraduate researcher in the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/), advised by Professor Jong Min Lee.
 
 ## Bio
 - https://portfolio.rocknroll17.com
-- https://rocknroll17.tistory.com
 
 ## Technology Stack 🧑‍💻
 - Python
@@ -37,6 +36,10 @@ Chung-Ang University CSE
   - Automated internal workflows with Python scripts
   - Wrote comments for every column in the database (2000 Columns)
   - Developed MariaDB MCP server to improve internal developer productivity
+ 
+## Researching
+- **Spatial Intelligence Lab**- (2025.09 - )  
+  Researching as undergraduate researcher
 
 ## Hackathon & Awards
 - Union Hackathon: 2nd Place 🥈
