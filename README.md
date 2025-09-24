@@ -8,21 +8,21 @@
 
 ## Technology Stack 🧑‍💻
 - Python
+- Kotlin
+- Typescript
+- C++
 - FastAPI
+- Spring Boot
+- Vue.js
 - MYSQL
 - MariaDB
-- Kotlin
-- Vue.js
-- Typescript
-- Spring Boot
-- C++
 - Metasploit
 - Some Hacking Skills
   -> Wi-Fi, Virus, Web, Osint, MITM
 
 ## Vision 🔭
-- White Hat Hacker
 - AI Engineer
+- White Hat Hacker
 - Package Developer
 
 ## Major 🎓
@@ -43,7 +43,7 @@ Chung-Ang University CSE
 
 ## Hackathon & Awards
 - Union Hackathon: 2nd Place 🥈
-- AngelHack Seoul
+- AngelHack Seoul 2024
 - Unid-thon
 
 ## Stats
