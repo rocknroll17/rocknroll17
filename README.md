@@ -29,7 +29,7 @@
 Chung-Ang University CSE
 
 ## Internship 🏢
-- **Reco** – ICT Internship (2025.03 – 2025.08)
+- **Reco** – ICT Internship (2025.03 – 2025.08)  
   Working as a full-stack developer in the engineering team:  
   - Developed RESTful APIs using Spring Boot and Kotlin  
   - Developed frontend interfaces using Vue.js and TypeScript  
