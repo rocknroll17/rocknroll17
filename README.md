@@ -21,7 +21,7 @@
   -> Wi-Fi, Virus, Web, Osint, MITM
 
 ## Vision 🔭
-- AI Engineer
+- AI Engineer (CV, LLM ...?)
 - White Hat Hacker
 - Package Developer
 
@@ -45,6 +45,7 @@ Chung-Ang University CSE
 - Union Hackathon: 2nd Place 🥈
 - AngelHack Seoul 2024
 - Unid-thon
+- AngelHack Seoul 2025: 3rd Place 🥉
 
 ## Stats
 [![김수곤's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocknroll17&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
