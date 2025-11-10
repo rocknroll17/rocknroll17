@@ -44,7 +44,7 @@ Chung-Ang University CSE
 ## Hackathon & Awards
 - Union Hackathon: 2nd Place 🥈
 - AngelHack Seoul 2024
-- Unid-thon
+- Unid-thon 2024
 - AngelHack Seoul 2025: 3rd Place 🥉
 
 ## Stats
