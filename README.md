@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently graduated Chung-Ang University
-- 👯 I'm currently working on a project "MariaDB MCP Server"
+- 👯 I'm currently working on a project "Gemma4_Docent"
 - 🤔 I'm currently working as an undergraduate researcher in the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/), advised by Professor Jong Min Lee.
-- 👯 I'm currently working on a research assignment.
+- 👯 I'm currently researching for NeurIPS 2026.
 
 ## Bio
 - https://portfolio.rocknroll17.com
