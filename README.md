@@ -1,28 +1,24 @@
 ## Hi there 👋
-- 🌱 I’m currently graduated Chung-Ang University
-- 👯 I'm currently working on a project "QR-Bloom"
+- 🌱 I’m recently graduated from Chung-Ang University
+- 👯 I'm currently working on a project "AI Docent"
 - 🤔 I'm currently working as an undergraduate researcher in the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/), advised by Professor Jong Min Lee.
-- 👯 I'm currently researching for NeurIPS 2026.
+- 👯 I'm currently researching for AAAI 2027.
 
 ## Bio
 - https://portfolio.rocknroll17.com
 
+## Project
+- https://qr-bloom.rocknroll17.com
+- https://rocknroll17.github.io/davinci-code-server
+
 ## Technology Stack 🧑‍💻
 - Python
-- Kotlin
-- Typescript
-- C++
 - FastAPI
-- Spring Boot
-- Vue.js
-- MYSQL
-- MariaDB
-- Metasploit
-- Some Hacking Skills
-  -> Wi-Fi, Virus, Web, Osint, MITM
+- Metasploit, Aircrack-ng
 
 ## Vision 🔭
 - AI Engineer (CV, LLM ...?)
+- AX Engineer
 - White Hat Hacker
 - Package Developer
 
@@ -38,9 +34,10 @@ Chung-Ang University CSE
   - Wrote comments for every column in the database (2000 Columns)
   - Developed MariaDB MCP server to improve internal developer productivity
  
-## Researching
-- **Spatial Intelligence Lab**- (2025.09 - )  
-  Researching as undergraduate researcher
+## Research
+- **[Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/)** – Undergraduate researcher (2025.09 - )  
+  - Co-first author on a paper currently **under review**
+  - Led the end-to-end design and implementation of an MCP-based agent system for a lab research project
 
 ## 🏆 Hackathon & Awards
 
