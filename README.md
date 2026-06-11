@@ -9,7 +9,7 @@
 
 ## Project
 - https://qr-bloom.rocknroll17.com
-- https://rocknroll17.github.io/davinci-code-server
+- https://davinci-code.rocknroll17.com
 
 ## Technology Stack 🧑‍💻
 - Python
