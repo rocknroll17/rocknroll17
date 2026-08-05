@@ -2,7 +2,7 @@
 - 🌱 I’m recently graduated from Chung-Ang University
 - 👯 I'm currently working on a project "AI Docent"
 - 🤔 I'm currently working as an undergraduate researcher in the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/), advised by Professor Jong Min Lee.
-- 👯 I'm currently researching for AAAI 2027.
+- 👯 I'm currently finding jobs.
 
 ## Bio
 - https://portfolio.rocknroll17.com
