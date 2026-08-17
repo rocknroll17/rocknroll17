@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m recently graduated from Chung-Ang University
-- 👯 I'm currently working on a project "AI Docent"
+- 👯 I'm currently studying "LangGraph" for AI Agent.
 - 🤔 I'm currently working as an undergraduate researcher in the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/), advised by Professor Jong Min Lee.
 - 👯 I'm currently finding jobs.
 
@@ -35,9 +35,8 @@ Chung-Ang University CSE
   - Developed MariaDB MCP server to improve internal developer productivity
  
 ## Research
-- **[Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/)** – Undergraduate researcher (2025.09 - )  
-  - Co-first author on a paper currently **under review**
-  - Led the end-to-end design and implementation of an MCP-based agent system for a lab research project
+- **[Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/)** – Undergraduate researcher (2025.09 - 2026.08)  
+  - Co-first author and first author on three papers are **under review**
 
 ## 🏆 Hackathon & Awards
 
@@ -100,6 +99,13 @@ Chung-Ang University CSE
   - Reduces disposable cup waste and enables convenient usage
 
 </details>
+
+## Stats
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rocknroll17&theme=github_dark"
+    width="850"
+  />
+
 <!--
 ## Stats[![김수곤's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocknroll17)](https://github.com/anuraghazra/github-readme-stats)
 [![김수곤's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocknroll17&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
