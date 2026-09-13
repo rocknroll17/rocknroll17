@@ -5,6 +5,7 @@
 - 👯 I'm currently finding jobs.
 
 ## Bio
+- https://cv.rocknroll17.com
 - https://portfolio.rocknroll17.com
 
 ## Project
