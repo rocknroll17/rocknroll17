@@ -35,8 +35,13 @@ Chung-Ang University CSE
   - Developed MariaDB MCP server to improve internal developer productivity
  
 ## Research
-- **[Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/)** – Undergraduate researcher (2025.09 - 2026.08)  
-  - Co-first author and first author on three papers are **under review**
+- **[Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/)** – Undergraduate researcher (2025.09 – present)
+  - **Beyond Family Labels: A Taxonomic Ornstein–Uhlenbeck Prior for Avian 3D Shape Recovery**  
+    Yunchan Jeon\*, **SooGon Kim**\*, Seungwook Kim, CheolWon Lee, Jongmin Lee — *under review*
+  - **Potential-Guided Particle Steering for Negation-Constrained Dexterous Grasping**  
+    Geonho Kim\*, **SooGon Kim**\*, Jongmin Lee — *under review* · [arXiv](https://arxiv.org/abs/2609.00555) · [project page](https://geonho2.github.io/Potential-Guided/)
+  - **From Natural Language to Traffic Assignment: A Tool-Constrained LLM Agent for Stateful Macroscopic Analysis**  
+    **SooGon Kim**, Gyeongjun Kim, Keemin Sohn, Jongmin Lee — *under review*
 
 ## 🏆 Hackathon & Awards
 
