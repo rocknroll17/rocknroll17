@@ -42,7 +42,7 @@ Chung-Ang University CSE
   - **Potential-Guided Particle Steering for Negation-Constrained Dexterous Grasping**  
     Geonho Kim\*, **SooGon Kim**\*, Jongmin Lee — *arXiv preprint* · [arXiv](https://arxiv.org/abs/2609.00555) · [project page](https://geonho2.github.io/Potential-Guided/)
   - **From Natural Language to Traffic Assignment: A Tool-Constrained LLM Agent for Stateful Macroscopic Analysis**  
-    **SooGon Kim**, Gyeongjun Kim, Keemin Sohn, Jongmin Lee — *under review*
+    **SooGon Kim**, Gyeongjun Kim, Keemin Sohn, Jongmin Lee — *manuscript*
 
 ## 🏆 Hackathon & Awards
 
