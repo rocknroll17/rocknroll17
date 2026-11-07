@@ -38,7 +38,7 @@ Chung-Ang University CSE
 ## Research
 - **[Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/)** – Undergraduate researcher (2025.09 – present)
   - **Beyond Family Labels: A Taxonomic Ornstein–Uhlenbeck Prior for Avian 3D Shape Recovery**  
-    Yunchan Jeon\*, **SooGon Kim**\*, Seungwook Kim, CheolWon Lee, Jongmin Lee — ***NeurIPS 2026 (Oral)***
+    Yunchan Jeon\*, **SooGon Kim**\*, Seungwook Kim, CheolWon Lee, Jongmin Lee — ***NeurIPS 2026 (Oral)*** · [NeurIPS](https://neurips.cc/virtual/2026/loc/sydney/poster/151996)
   - **Potential-Guided Particle Steering for Negation-Constrained Dexterous Grasping**  
     Geonho Kim\*, **SooGon Kim**\*, Jongmin Lee — *arXiv preprint* · [arXiv](https://arxiv.org/abs/2609.00555) · [project page](https://geonho2.github.io/Potential-Guided/)
   - **From Natural Language to Traffic Assignment: A Tool-Constrained LLM Agent for Stateful Macroscopic Analysis**  
